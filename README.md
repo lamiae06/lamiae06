@@ -2,7 +2,7 @@
 
 🎓 I’m studying Computer Engineering (2nd year) at FSTM, Hassan II University
 
-💻 Skills: C | Python | SQL | HTML | CSS
+💻 Skills: C | Python | SQL | HTML | CSS | js | php
 
 🌱Currently learning Data Science (Python, Pandas, Machine Learning) 
 
